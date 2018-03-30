@@ -25,10 +25,10 @@ Tj = ∑(θi - θi-1)j 		(j = link number, i = step number)
 
 **Contributions**
 
-Aakriti Agrawal - Genetic Algorithm
-Rishabh Mathur - Hermite Interpolation, checking chromosome validity
-Ashutosh Purohit - Fitness Value Calculation , Inverse Kinematics for 2 and 3 link arm
-Fauzan Zaid Khan - Display and animation , Compilation of all codes
+Aakriti Agrawal - Genetic Algorithm.
+Rishabh Mathur - Hermite Interpolation, checking chromosome validity.
+Ashutosh Purohit - Fitness Value Calculation , Inverse Kinematics for 2 and 3 link arm.
+Fauzan Zaid Khan - Display and animation , Compilation of all codes.
 
 ### Conclutions and Future Recommendatins
 This technique can be used to control robotic arms in industrial areas where inefficiencies can lead to heavy losses.
